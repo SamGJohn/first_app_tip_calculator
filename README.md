@@ -1,1 +1,1 @@
-# first_app_tip_calculator
+# My First App. A Sick Tip Calculator
